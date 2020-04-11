@@ -162,7 +162,7 @@ Veja as [issues abertas](https://github.com/gablemos/first-nodejs-api/issues) pa
 <!-- CONTRIBUTING -->
 ## Contribuindo
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contribuições são **bem vindas**.
 
 1. Faça um Fork do projeto
 2. Cria sua Feature Branch (`git checkout -b feature/AmazingFeature`)
